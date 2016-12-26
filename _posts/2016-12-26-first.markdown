@@ -1,0 +1,7 @@
+---
+title: Die Erste!
+layout: post
+---
+<blockquote>
+Create things no matter what they are and maybe your creativity will bring good to the world!
+</blockquote>
