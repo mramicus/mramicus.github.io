@@ -1,1 +1,12 @@
-theme: jekyll-theme-slate
+# Site settings
+title: Adam Owsley
+email: carl.amicus@gmail.com
+description: >
+  An Ordinay Guy
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://mramicus.github.io" # the base hostname & protocol for your site
+twitter_username: mramicus1
+github_username:  mramicus
+
+# Build settings
+markdown: kramdown
